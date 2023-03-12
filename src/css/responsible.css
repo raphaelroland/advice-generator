@@ -1,0 +1,6 @@
+@media(max-width: 375px) {
+    .advice-card {
+        width: 375px;
+        height: 667px;
+    }
+}
